@@ -1,0 +1,66 @@
+body{
+	font-family:cursive;
+}
+
+
+
+#food{
+	clear: left;
+	float:left;
+	text-align: center;
+	vertical-align: center;
+	font-weight: bold;
+}
+#tile{
+	background-color: #bfa0d1;
+	padding: 10px;
+	text-align: center;
+	margin-bottom: 10px;
+	box-shadow: 5px 2px 3px 2px black;
+	width:100%;
+}
+#name{
+	font-weight: bold;
+	font-size: 1.3em;
+	text-align: center;
+	padding: 10px;
+	text-shadow: 2px 2px 2px white;
+}
+header, .navbar{
+	background-color: #bfa0d1;
+	margin-bottom: 30px;
+}
+#main{
+	margin: auto;
+	text-align: center;
+	vertical-align: center;
+	margin: 10px;
+	text-shadow: 4px 4px 4px pink;
+}
+#llc{
+	font-family: cursive;
+	font-weight: bold;
+	text-shadow: 2px 2px 5px white;
+}
+#nav-list{
+	text-align: center;
+	border: 1px solid black;
+}
+a{
+	color: black;
+	font-style: italic;
+}
+a:hover{
+	background-color: white;
+	color:violet;
+	text-decoration: none;
+	width:100%;
+}
+#last{
+	font-style: italic;
+	font-family: verdana;
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+	font-size: .8em;
+}
